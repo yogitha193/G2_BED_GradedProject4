@@ -1,5 +1,6 @@
 # G2_BED_GradedProject4
-
+## post no:8081
+## username and rolename are both unique keys in users and roles tables respectively 
 ## Outputs
 
 ### basic auth
