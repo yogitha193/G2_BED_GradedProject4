@@ -69,3 +69,8 @@
 ### list employees sorted on their first name in descending order
 ![image](https://github.com/yogitha193/G2_BED_GradedProject4/assets/78747526/013aee9a-c73a-44e3-a60f-9dc0397979d1)
 
+#
+
+### checking authorization
+![image](https://github.com/yogitha193/G2_BED_GradedProject4/assets/78747526/8b36552f-b8c3-4895-87a3-03e217142753)
+![image](https://github.com/yogitha193/G2_BED_GradedProject4/assets/78747526/5efe46d9-8f81-4c5c-bb3c-f08121e602a8)
